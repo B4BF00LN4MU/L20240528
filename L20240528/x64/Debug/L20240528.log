@@ -1,0 +1,35 @@
+﻿  BlackJack.cpp
+C:\Work\L20240528\BlackJack.cpp(10,18): error C2653: 'EType': is not a class or namespace name
+C:\Work\L20240528\BlackJack.cpp(10,25): error C2065: 'Clover': undeclared identifier
+  Card.cpp
+C:\Work\L20240528\Card.h(29,8): error C3646: 'Type': unknown override specifier
+  (compiling source file 'Card.cpp')
+  
+C:\Work\L20240528\Card.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Card.cpp')
+  
+C:\Work\L20240528\Card.cpp(8,2): error C2065: 'Type': undeclared identifier
+C:\Work\L20240528\Card.cpp(19,2): error C2065: 'Type': undeclared identifier
+C:\Work\L20240528\Card.cpp(41,36): error C2065: 'Type': undeclared identifier
+  Dealer.cpp
+C:\Work\L20240528\Card.h(29,8): error C3646: 'Type': unknown override specifier
+  (compiling source file 'Dealer.cpp')
+  
+C:\Work\L20240528\Card.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Dealer.cpp')
+  
+  Deck.cpp
+C:\Work\L20240528\Card.h(29,8): error C3646: 'Type': unknown override specifier
+  (compiling source file 'Deck.cpp')
+  
+C:\Work\L20240528\Card.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Deck.cpp')
+  
+  Player.cpp
+C:\Work\L20240528\Card.h(29,8): error C3646: 'Type': unknown override specifier
+  (compiling source file 'Player.cpp')
+  
+C:\Work\L20240528\Card.h(29,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Player.cpp')
+  
+  Generating Code...
